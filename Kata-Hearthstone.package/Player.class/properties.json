@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Kata-Hearthstone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"maximumMana",
+		"health"
+	],
+	"name" : "Player",
+	"type" : "normal"
+}
