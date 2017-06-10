@@ -1,0 +1,1 @@
+HSPlayer maximumMana is the maximum mana a player can play during one turn. 

@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "StephaneDucasse 4/28/2015 19:14",
 	"super" : "Object",
 	"category" : "Kata-Hearthstone",
 	"classinstvars" : [ ],
@@ -7,8 +7,11 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"maximumMana",
-		"health"
+		"health",
+		"deck",
+		"hand",
+		"opponent"
 	],
-	"name" : "Player",
+	"name" : "HSPlayer",
 	"type" : "normal"
 }
