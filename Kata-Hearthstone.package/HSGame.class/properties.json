@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Kata-Hearthstone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"player1",
+		"player2",
+		"currentPlayer"
+	],
+	"name" : "HSGame",
+	"type" : "normal"
+}
