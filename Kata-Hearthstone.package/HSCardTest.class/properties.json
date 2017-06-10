@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "CardTest",
+	"name" : "HSCardTest",
 	"type" : "normal"
 }

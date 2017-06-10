@@ -1,7 +1,7 @@
 action
 playACard: aCard
-
-	maximumMana > aCard mana 
+	
+	currentMana >= aCard mana 
 		ifTrue: [ 
 			self useManaOfCard: aCard.
 			self putCardIntoCemetary: aCard. 

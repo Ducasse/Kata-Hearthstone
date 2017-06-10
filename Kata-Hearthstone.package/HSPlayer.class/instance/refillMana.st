@@ -1,0 +1,3 @@
+action
+refillMana
+	currentMana := maximumMana

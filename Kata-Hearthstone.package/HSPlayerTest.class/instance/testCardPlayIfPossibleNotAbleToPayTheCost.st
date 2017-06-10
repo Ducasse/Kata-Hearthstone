@@ -5,7 +5,7 @@ testCardPlayIfPossibleNotAbleToPayTheCost
 	p := HSPlayer new.
 	p maximumMana: 3.
 	p hand: { (HSCard withMana: 4)  }.
-	oneChoice := p playIfPossible.   
+	oneChoice := p bestPossiblePlay.   
 	self assert: oneChoice isEmpty
 	
 	 

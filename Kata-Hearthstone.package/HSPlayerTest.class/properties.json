@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "PlayerTest",
+	"name" : "HSPlayerTest",
 	"type" : "normal"
 }

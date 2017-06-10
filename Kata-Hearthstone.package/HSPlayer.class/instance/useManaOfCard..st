@@ -1,3 +1,4 @@
 action
 useManaOfCard: aCard
-	maximumMana := maximumMana - aCard mana. 
+
+	currentMana := currentMana - aCard mana. 

@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "StephaneDucasse 4/30/2015 20:48",
 	"super" : "Object",
 	"category" : "Kata-Hearthstone",
 	"classinstvars" : [ ],
@@ -8,7 +8,8 @@
 	"instvars" : [
 		"player1",
 		"player2",
-		"currentPlayer"
+		"currentPlayer",
+		"finished"
 	],
 	"name" : "HSGame",
 	"type" : "normal"
